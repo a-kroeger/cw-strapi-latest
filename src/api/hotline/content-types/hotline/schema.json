@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "hotlines",
+  "info": {
+    "singularName": "hotline",
+    "pluralName": "hotlines",
+    "displayName": "Hotline"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Phone": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_texts",
+  "info": {
+    "singularName": "home-text",
+    "pluralName": "home-texts",
+    "displayName": "Home Text",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Description2": {
+      "type": "richtext"
+    }
+  }
+}
